@@ -1,0 +1,15 @@
+C:\Users\mbatek\source\repos\NaukaPetle\NaukaPetle\bin\Debug\net6.0\NaukaPetle.exe
+C:\Users\mbatek\source\repos\NaukaPetle\NaukaPetle\bin\Debug\net6.0\NaukaPetle.deps.json
+C:\Users\mbatek\source\repos\NaukaPetle\NaukaPetle\bin\Debug\net6.0\NaukaPetle.runtimeconfig.json
+C:\Users\mbatek\source\repos\NaukaPetle\NaukaPetle\bin\Debug\net6.0\NaukaPetle.dll
+C:\Users\mbatek\source\repos\NaukaPetle\NaukaPetle\bin\Debug\net6.0\NaukaPetle.pdb
+C:\Users\mbatek\source\repos\NaukaPetle\NaukaPetle\obj\Debug\net6.0\NaukaPetle.csproj.AssemblyReference.cache
+C:\Users\mbatek\source\repos\NaukaPetle\NaukaPetle\obj\Debug\net6.0\NaukaPetle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbatek\source\repos\NaukaPetle\NaukaPetle\obj\Debug\net6.0\NaukaPetle.AssemblyInfoInputs.cache
+C:\Users\mbatek\source\repos\NaukaPetle\NaukaPetle\obj\Debug\net6.0\NaukaPetle.AssemblyInfo.cs
+C:\Users\mbatek\source\repos\NaukaPetle\NaukaPetle\obj\Debug\net6.0\NaukaPetle.csproj.CoreCompileInputs.cache
+C:\Users\mbatek\source\repos\NaukaPetle\NaukaPetle\obj\Debug\net6.0\NaukaPetle.dll
+C:\Users\mbatek\source\repos\NaukaPetle\NaukaPetle\obj\Debug\net6.0\refint\NaukaPetle.dll
+C:\Users\mbatek\source\repos\NaukaPetle\NaukaPetle\obj\Debug\net6.0\NaukaPetle.pdb
+C:\Users\mbatek\source\repos\NaukaPetle\NaukaPetle\obj\Debug\net6.0\NaukaPetle.genruntimeconfig.cache
+C:\Users\mbatek\source\repos\NaukaPetle\NaukaPetle\obj\Debug\net6.0\ref\NaukaPetle.dll
